@@ -1,1 +1,1 @@
-# arch_dotfiles
+# dotfiles

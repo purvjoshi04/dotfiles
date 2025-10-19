@@ -1,1 +1,236 @@
-/Users/purvjoshi/Library/Application Support/Code/User/profiles/-68496e6d/settings.json
+{
+    "terminal.integrated.fontFamily": "monospace",
+    "workbench.settings.editor": "json",
+    "workbench.settings.useSplitJSON": true,
+    "C_Cpp.updateChannel": "Insiders",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 600,
+    "editor.mouseWheelZoom": true,
+    "[php]": {},
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.guides.bracketPairs": true,
+    "editor.accessibilitySupport": "off",
+    "editor.fontSize": 10,
+    "code-runner.runInTerminal": true,
+    "emmet.triggerExpansionOnTab": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "sibiraj-s.vscode-scss-formatter"
+    },
+    "github.branchProtection": true,
+    "gitlens.views.branches.branches.layout": "list",
+    "git.autofetch": true,
+    "terminal.integrated.commandsToSkipShell": [
+        "\"terminal.integrated.commandsToSkipShell\": [     \"npm\",     \"npx\",     \"yarn\",     \"yarnpkg\",     \"docker\",     \"code\" ]"
+    ],
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "window.zoomLevel": 1,
+    "terminal.integrated.env.windows": {},
+    "tabnine.experimentalAutoImports": true,
+    "gitlens.views.repositories.avatars": false,
+    "gitlens.views.repositories.showCommits": false,
+    "workbench.editorAssociations": {
+        "*.sqlite": "default"
+    },
+    "redhat.telemetry.enabled": true,
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDragAndDrop": false,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "cmake.configureOnOpen": false,
+    "dart.openDevTools": "flutter",
+    "git.enableSmartCommit": true,
+    "[scss]": {
+        "editor.defaultFormatter": "sibiraj-s.vscode-scss-formatter"
+    },
+    "liveshare.accessibility.soundVolume": 0,
+    "liveshare.accessibility.soundsEnabled": false,
+    "explorer.confirmDelete": false,
+    "git.confirmSync": false,
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.fontFamily": "CascadiaCode",
+    "terminal.integrated.fontFamily": "MesloLGS NFM",
+    "powershell.promptToUpdatePowerShell": false,
+    "workbench.colorTheme": "Tokyo Night",
+    "terminal.integrated.profiles.windows": {
+        "Git Bash": {
+            "source": "Git Bash"
+        },
+    },
+    "vsicons.customIconFolderPath": "Import-Module -Name Terminal-Icons",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "console-ninja.featureSet": "Community",
+    "dart.debugExternalPackageLibraries": true,
+    "dart.debugSdkLibraries": false,
+    "workbench.editor.empty.hint": "hidden",
+    "git.openRepositoryInParentFolders": "never",
+    "accessibility.signals.lineHasError": {
+        "sound": "off",
+        "announcement": "off"
+    },
+    "accessibility.signals.lineHasFoldedArea": {
+        "sound": "off",
+        "announcement": "off"
+    },
+    "accessibility.signals.lineHasBreakpoint": {
+        "sound": "off",
+        "announcement": "off"
+    },
+    "accessibility.signals.lineHasInlineSuggestion": {
+        "sound": "off"
+    },
+    "accessibility.signals.terminalQuickFix": {
+        "sound": "off",
+        "announcement": "off"
+    },
+    "accessibility.signals.onDebugBreak": {
+        "sound": "off",
+        "announcement": "off"
+    },
+    "accessibility.signals.noInlayHints": {
+        "sound": "off",
+        "announcement": "off"
+    },
+    "accessibility.signals.taskCompleted": {
+        "sound": "off",
+        "announcement": "off"
+    },
+    "accessibility.signals.taskFailed": {
+        "sound": "off",
+        "announcement": "off"
+    },
+    "accessibility.signals.terminalCommandFailed": {
+        "sound": "off",
+        "announcement": "off"
+    },
+    "accessibility.signals.notebookCellCompleted": {
+        "sound": "off",
+        "announcement": "off"
+    },
+    "accessibility.signals.notebookCellFailed": {
+        "sound": "off",
+        "announcement": "off"
+    },
+    "accessibility.signals.diffLineInserted": {
+        "sound": "off"
+    },
+    "accessibility.signals.diffLineDeleted": {
+        "sound": "off"
+    },
+    "accessibility.signals.diffLineModified": {
+        "sound": "off"
+    },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "editor.wordWrap": "on",
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "liveshare.accessibility.accessibilityFeaturesEnabled": "off",
+    "accessibility.signals.chatRequestSent": {
+        "sound": "off",
+        "announcement": "off"
+    },
+    "accessibility.signals.chatResponseReceived": {
+        "sound": "off"
+    },
+    "accessibility.signals.clear": {
+        "sound": "off",
+        "announcement": "off"
+    },
+    "accessibility.signals.lineHasWarning": {
+        "sound": "off",
+        "announcement": "off"
+    },
+    "accessibility.signals.voiceRecordingStopped": {
+        "sound": "off"
+    },
+    "accessibility.signals.voiceRecordingStarted": {
+        "sound": "off"
+    },
+    "accessibility.signals.terminalBell": {
+        "sound": "off",
+        "announcement": "off"
+    },
+    "accessibility.signals.progress": {
+        "sound": "off",
+        "announcement": "off"
+    },
+    "accessibility.signals.positionHasWarning": {
+        "sound": "off",
+        "announcement": "off"
+    },
+    "accessibility.signals.positionHasError": {
+        "sound": "off",
+        "announcement": "off"
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "prisma.showPrismaDataPlatformNotification": false,
+    "codeium.enableConfig": {
+        "*": false
+    },
+    "editor.minimap.enabled": false,
+    "[dockercompose]": {
+        "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+    },
+    "files.exclude": {
+        "**/.git": false
+    },
+    "makefile.configureOnOpen": true,
+    "[yaml]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "terminal.integrated.env.osx": {},
+    "liveServer.settings.donotVerifyTags": true,
+    "print.folder.fileNames": true,
+    "print.folder.include": [],
+    "print.folder.exclude": [
+        "{bin,obj,out}",
+        "node_modules",
+        "data",
+        "**/*.{bin,exe,dll,hex,pdb,pdf,pfx,png,jpg,gif,bmp,suo,design}"
+    ],
+    "print.folder.maxLines": 1200,
+    "print.folder.maxFiles": 30,
+    "print.folder.includeFileList": false,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": true,
+        "scminput": false,
+        "javascript": false,
+        "html": true
+    },
+    "chat.commandCenter.enabled": false,
+    "diffEditor.codeLens": true,
+    "workbench.sideBar.location": "right",
+    "workbench.iconTheme": "flow-dark",
+    "javascript.updateImportsOnFileMove.enabled": "always"
+}

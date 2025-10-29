@@ -123,6 +123,7 @@ alias bnext="bun create next-app"
 alias bd="bun run dev"
 alias ga="git add"
 alias gc="git commit -m"
+alias gs="git status"
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm

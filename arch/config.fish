@@ -25,8 +25,8 @@ if status is-interactive # Commands to run in interactive sessions can go here
     alias syu 'sudo pacman -Syu'
     alias syyu 'sudo pacman -Syyu'
     alias syy 'sudo pacman -Syy'    
-    alias fish 'nano /home/purvsama/.config/fish/config.fish'
-    alias source-fish 'source /home/purvsama/.config/fish/config.fish'``
+    alias fish "nano /home/purvsama/.config/fish/config.fish"
+    alias source-fish "source /home/purvsama/.config/fish/config.fish"
     alias d "docker"
     alias dc "docker compose"
     alias ds "docker ps"
@@ -45,4 +45,8 @@ if status is-interactive # Commands to run in interactive sessions can go here
     alias bxh "bunx --bun vite -- --host"
     alias bnext "bun create next-app"
     alias bd "bun run dev"
+    alias ga "git add"
+    alias gs "git status"
+    alias gc "git commit -m"
+    alias k "kubectl"
 end

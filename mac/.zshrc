@@ -124,6 +124,7 @@ alias bd="bun run dev"
 alias ga="git add"
 alias gc="git commit -m"
 alias gs="git status"
+alias k="kubectl"
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm

@@ -48,5 +48,6 @@ if status is-interactive # Commands to run in interactive sessions can go here
     alias ga "git add"
     alias gs "git status"
     alias gc "git commit -m"
+    alias gp "git pull"
     alias k "kubectl"
 end

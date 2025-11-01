@@ -124,6 +124,7 @@ alias bd="bun run dev"
 alias ga="git add"
 alias gc="git commit -m"
 alias gs="git status"
+alias gp="git pull"
 alias k="kubectl"
 
 export NVM_DIR="$HOME/.nvm"

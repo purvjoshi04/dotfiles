@@ -125,7 +125,6 @@ alias ga="git add"
 alias gc="git commit -m"
 alias gs="git status"
 alias gp="git pull"
-alias grc="git clone"
 alias k="kubectl"
 
 export NVM_DIR="$HOME/.nvm"

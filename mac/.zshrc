@@ -126,6 +126,7 @@ alias gc="git commit -m"
 alias gs="git status"
 alias gp="git pull"
 alias grc="git clone"
+alias gpr="git push origin HEAD"
 alias k="kubectl"
 
 export NVM_DIR="$HOME/.nvm"

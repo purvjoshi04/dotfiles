@@ -104,8 +104,9 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 alias d="docker"
-alias dc="docker compose"
+alias dc="docker-compose"
 alias ds="docker ps"
+alias dsa="docker ps -a"
 alias ns="pnpm run start"
 alias nd="pnpm run dev"
 alias nv="pnpm create vite@latest"
@@ -152,3 +153,8 @@ case ":$PATH:" in
   *) export PATH="$PNPM_HOME:$PATH" ;;
 esac
 # pnpm end
+export PATH="/opt/homebrew/opt/libpq/bin:$PATH"
+
+# nvim path
+
+alias nvim="$HOME/bin/nvim-macos-x86_64/bin/nvim"

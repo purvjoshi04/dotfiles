@@ -29,7 +29,7 @@ if status is-interactive # Commands to run in interactive sessions can go here
     alias source-fish "source /home/purvsama/.config/fish/config.fish"
     alias d "docker"
     alias dc "docker compose"
-    alias ds "docker ps"
+    alias ds "docker ps -a"
     alias ns "pnpm run start"
     alias nd "pnpm run dev"
     alias nv "pnpm create vite@latest"
